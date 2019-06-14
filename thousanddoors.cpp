@@ -1,5 +1,5 @@
 //https://rosettacode.org/wiki/100_doors
-#include <stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
